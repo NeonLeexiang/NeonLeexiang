@@ -42,6 +42,10 @@
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python     1 hr 30 mins    ███████████▒░░░░░░░░░░░░░   45.45 % 
+Markdown   58 mins         ███████▒░░░░░░░░░░░░░░░░░   29.21 % 
+YAML       27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+C++        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Bash       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 ```
 <!--END_SECTION:waka-->
