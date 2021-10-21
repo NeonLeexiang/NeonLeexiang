@@ -10,8 +10,6 @@
 </a>
 
 <br>
-<br>
-<br>
 
 - 🏢 I'm currently studying at **NJUST** [![Outlook Badge](https://img.shields.io/badge/-neonleexiang-blue?style=plastic&logo=wechat&logoColor=white)]()
 - 🚀 :
@@ -23,12 +21,7 @@
 - 💻 :
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 
-
-  
 <br />
-<br />
-<br />
-
 
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -38,17 +31,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-<br>
-<br>
 <br>
 
-
-📈 my github stats  
-
+📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=neonleexiang&show_icons=true&theme=gotham" alt="neonleexiang" />
-
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
