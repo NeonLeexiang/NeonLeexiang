@@ -40,9 +40,6 @@
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 56 mins   ████████████████████░░░░░   79.66 % 
-JSX          29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-MDX          25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
