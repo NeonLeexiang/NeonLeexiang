@@ -42,9 +42,9 @@
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Python         4 hrs 19 mins   ████████████████▓░░░░░░░░   66.34 % 
-Bash           1 hr 40 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.80 % 
-Shell Script   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Text           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Python         3 hrs 44 mins   ███████████████▓░░░░░░░░░   62.54 % 
+Bash           1 hr 41 mins    ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+Shell Script   29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Text           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 <!--END_SECTION:waka-->
