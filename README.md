@@ -42,6 +42,9 @@
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python         22 mins         ████████████░░░░░░░░░░░░░   48.25 % 
+Bash           18 mins         ██████████░░░░░░░░░░░░░░░   39.55 % 
+Shell Script   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Chameleon      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 <!--END_SECTION:waka-->
