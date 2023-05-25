@@ -41,7 +41,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -84,16 +84,21 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 50 mins        █████████████░░░░░░░░░░░░   51.89 % 
+YAML                     39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Jupyter                  33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Text                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Shell Script             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  3 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BasicSR_Efficient        2 hrs 59 mins       █████████████████████░░░░   84.59 % 
+HandyView                32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,5 +114,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2023 18:33:40 UTC
+ Last Updated on 25/05/2023 18:33:56 UTC
 <!--END_SECTION:waka-->
