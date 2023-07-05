@@ -84,17 +84,16 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     7 mins              ███████████████████████░░   93.89 % 
-Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DLGSANet4SR              8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -110,5 +109,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2023 18:38:41 UTC
+ Last Updated on 05/07/2023 18:39:11 UTC
 <!--END_SECTION:waka-->
